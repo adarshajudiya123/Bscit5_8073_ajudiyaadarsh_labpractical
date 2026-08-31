@@ -23,13 +23,7 @@
                 echo $b ." is less than or equal to ". $a."<br>";
             echo "<h1>ASSIGNMENT Operator</h1>";
             $a=$b;
-            echo "a=".$a."<br>"."b=".$b."<br>";
-            echo "<h1>Bitwise Operator</h1>";
-            echo "Bitwise AND of a and b is : ".$a&$b."<br>";
-            echo "Bitwise OR of a and b is  : ".$a|$b."<br>";
-            echo "Bitwise XOR of a and b is : ".$a^$b."<br>";
-            
-
+            echo "a=".$a."<br>"."b=".$b;
 
         ?>
 
