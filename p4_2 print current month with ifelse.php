@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <?php
+        $month="june";
+        if ($month=="june") {
+            echo "Current month is June";
+        } else {
+            echo "Invalid Month Name";
+        }
+    ?>
+</body>
+</html>
