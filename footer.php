@@ -16,7 +16,7 @@
 <body>
     
     <br><br><br>
-    <footer><b></b><h1>2026 Raj's Website</h1></b></footer>
+    <footer><b></b><h1>Table</h1></b></footer>
     
 </body>
 </html>
